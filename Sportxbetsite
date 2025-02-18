@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rahul Kumar - Contact</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
+        .container { max-width: 400px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        .contact-links { margin-top: 20px; }
+        .contact-links a { 
+            display: block; 
+            padding: 15px; 
+            margin: 10px 0; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .whatsapp { background-color: #25D366; }
+        .telegram { background-color: #0088cc; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SPORTXBET</h1>
+        <p>Connect with me on WhatsApp or Telegram</p>
+        <div class="contact-links">
+            <a href="https://wa.me/918252650885" class="whatsapp">WhatsApp Me</a>
+            <a href="https://t.me/@rahulraj13064" class="telegram">Telegram Me</a>
+        </div>
+    </div>
+</body>
+</html>
