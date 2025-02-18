@@ -24,11 +24,14 @@
 </head>
 <body>
     <div class="container">
-        <h1>SPORTXBET</h1>
+        <h1>Rahul Kumar</h1>
         <p>Connect with me on WhatsApp or Telegram</p>
         <div class="contact-links">
-            <a href="https://wa.me/918252650885" class="whatsapp">WhatsApp Me</a>
-            <a href="https://t.me/@rahulraj13064" class="telegram">Telegram Me</a>
+            <!-- WhatsApp Link (Click karne par WhatsApp open hoga) -->
+            <a href="https://api.whatsapp.com/send?phone=918252650885" class="whatsapp">WhatsApp Me</a>
+            
+            <!-- Telegram Link (Apna Telegram username yahan daalein) -->
+            <a href="https://t.me/rahulraj13064" class="telegram">Telegram Me</a>
         </div>
     </div>
 </body>
